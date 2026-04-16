@@ -29,16 +29,16 @@ https://makecode.microbit.org/S14540-84699-61299-29067
 
 To do this, first press on the edit code button after clicking the link.
 
-![alt text](step1.png)
+![alt text](instructionimages/step1.png)
 
 Then click on the "Show Data" button on the left side of the screen.
 
-![alt text](step2.png)
+![alt text](instructionimages/step2.png)
 
 From there you can observe the data.
 
-![alt text](step3.png)
+![alt text](instructionimages/step3.png)
 
-![alt text](step4.png)
+![alt text](instructionimages/step4.png)
 
 The code can also be run on the physical Micro:Bit, but this is not necessary.
