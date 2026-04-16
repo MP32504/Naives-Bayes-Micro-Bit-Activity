@@ -8,7 +8,7 @@ The activity utilizes the columns of LEDs on the front of the Micro:Bit, with ea
 
 ### Activity Explanation
 
-As an example, lets say we are using our model to filter spam emails. For our purposes, conditional one might be the phrase "Hello,". Selecting this as true would signal to the algorithm that the phrase "Hello," is contained in the email.
+As an example, let's say we are using our model to filter spam emails. For our purpose, conditional one might be the phrase "Hello,". Selecting this as true would signal to the algorithm that the phrase "Hello," is contained in the email.
 
 The algorithm could use preexisting data to try and determine if the email is a spam email based on whether or not the conditional is true, utilizing a Naive Bayes algorithm. If most emails that have the phrase "Hello," in the training data are spam emails, then the email having that phrase could indicate to the model that the email might be spam. For the activity, the data is randomly generated.
 
